@@ -1,0 +1,141 @@
+
+            .bodybg{
+                margin: 0;
+                background-image: url(background.jpg) ;
+                background-size: cover;
+            }
+          
+            .hello{
+                color: lightgray;
+                font-family: 'Raleway', sans-serif;
+                font-size: 30px;
+                text-align: center;
+                margin-top: 8%;
+                margin-left: 65%;  
+                font-size: 90px;
+                margin-bottom: 0px;
+                text-align: left;
+
+            }
+            
+            #button{
+                background-color: transparent;
+                border : 1px solid;
+                border-radius:40px ; 
+                display: inline-block;
+                margin-left: 68%;                
+                text-align: center;                
+                text-decoration: none; 
+                padding-top: 10px;
+                padding-left:25px;
+                padding-right: 25px;
+                padding-bottom:10px;
+                color: lightgray;   
+                margin-top: 5%;
+                font-weight: bold;            
+            }
+            #button:hover{
+                background-color: white;
+                border : 1px solid;
+                /* border-radius:40px ;  */
+                display: inline-block;
+                margin-left: 68%;                
+                text-align: center;                
+                text-decoration: none; 
+                padding-top: 10px;
+                padding-left:25px;
+                padding-right: 25px;
+                padding-bottom:10px;
+                color: #020F15;   
+                margin-top: 5%;
+                font-weight: bold;            
+            }
+            span{
+
+                color: lightgray;
+                font-weight: bold;
+                font-family:'Raleway', sans-serif ;
+                margin: 20px;                
+            }
+            .jumbroton{
+                background-image: url(jumbroton.png);
+                background-size: cover;
+            }
+            .welcome{
+                font-family: "roboto";
+                margin-top: 22% ;
+                color: white;
+                font-size: 40px;
+                text-align: center;
+            }
+            .box{
+                min-height: 700px;
+                min-width:500px;
+                background-color: white;
+                border-radius: 40px;
+                margin-left: 9%;
+                margin-top: 24%;
+                margin-right: 9%;
+            }
+            .image{
+                padding-right: 50px;
+                margin-bottom: 20px;
+                margin-left: 220px;
+                margin-top: 90px;
+                float: left;
+                }
+            
+            .nama{
+                padding-top: 80px;
+                font-style: bold;
+                font-family: "Raleway", sans-serif;
+                font-size: 35px;
+                color: #1E1E1E ; 
+                font-weight: lighter;               
+            }
+            .junior{
+                padding-top: 0px;
+                color: #1E1E1E;
+                font-weight: bold;
+                margin-bottom: 20px;
+            }
+            .box .nama p{
+                margin-bottom: -13px;
+            }
+
+            .story{
+                margin-top: 140px;
+                margin-left: 220px;
+                margin-right: 220px;
+            }                                 
+            .sosmed{
+                display: flex;
+            }
+            .sosmed img{
+                margin-top: 20px;
+                height: 32px;
+            }                                                                     
+            .mystory{
+                margin-left: 50px;
+                font-size: 35px;
+                font-weight: bold;
+                font-family: "Raleway";
+            }
+            .history{
+                margin-left:0;
+                text-indent: 60px;
+                font-family: "Raleway";
+            }
+            .iconIg{
+                margin-left: 10px;
+                margin-right: 60px;
+                
+
+            }
+            .iconGithub{
+                margin-right: 60px;
+
+            }
+            .iconWa{
+
+            }                        
